@@ -13,15 +13,6 @@
 </p>
 
 
-## **Interests**<br>
-- Data Science 
-- Artificial Intelligence
-- Machine Learning
-- Data Structures And Algorithms 
-- Database
-- Networking
-
-
 ## **Skills**<br>
 
 <p align='center'>
