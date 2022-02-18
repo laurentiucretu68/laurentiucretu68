@@ -70,35 +70,48 @@
 
 ![Profile views](https://gpvc.arturio.dev/laurentiucretu68)
 
-<div style="display: flex">
-<div style="float: left; width: 50%">
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=laurentiucretu68&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-    </p>
-    <p>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurentiucretu68&theme=chartreuse-dark" />
-    </p>
-</div>
+<table width="100%">
+<tr>
+<td width="50%">
 
-<div style="float: right; width: 50%; padding-left: 50px">
+<img src="https://github-readme-stats.vercel.app/api?username=laurentiucretu68&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laurentiucretu68&theme=chartreuse-dark">
+    
+</td>
+    
+<td width="50%" align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiucretu68&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
-</div>
+</td>
+</tr>
+</table>
 
 
-<div>
 
 <h2> Contact me</h2>
-<div style="display: flex">
+
+<table>
+
+<td>
 
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lawrencium103/)
 
+</td>
+<td>
+
 [<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Facebook-4267B3?style=for-the-badge&logo=Facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100003908947620)
 
+</td>
+<td>
+
 [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/lawrenciu103/)
-</div>
-</div>
+</td>
+</table>
+
+
+
+
 
 <br><br>
