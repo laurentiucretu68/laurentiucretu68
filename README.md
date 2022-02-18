@@ -86,26 +86,18 @@
 </div>
 
 </div>
-<br><br>
 
 
-<div style="display: flex">
-<div style="float: left; width: 50%">
-    <img src ="Images/social_dashboard.svg" align = "left" width = 100%>
-</div>
+<div>
 
-<div style="padding-left: 50px; margin-top: -30px">
 <h2> Contact me</h2>
+<div style="display: flex">
 
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lawrencium103/)
-<br><br>
 
 [<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Facebook-4267B3?style=for-the-badge&logo=Facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100003908947620)
-<br><br>
 
 [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/lawrenciu103/)
-<br><br>
-
 </div>
 </div>
 
