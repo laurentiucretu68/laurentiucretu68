@@ -52,8 +52,6 @@
 
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
 ## My GitHub Stats
 <h3 align="left">Profile Views: 🧐</h3>
 
