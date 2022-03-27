@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Laurentiu Vasile Cretu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Laurentiu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">Self-Learner and Linux Enthusiast</h3>
 
