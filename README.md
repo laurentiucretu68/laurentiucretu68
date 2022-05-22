@@ -8,8 +8,7 @@
 <p>
 
 - Computers and Information Technology - 2nd year @Faculty of Mathematics and Computer Science, University of Bucharest. 🎓
-- I’m currently working with C/C++, PHP, Java and Python ⚡
-- Seeking opportunities to work in a challenging environments and push my boundaries. ✅
+- I’m currently working with NodeJS, Fastify, MongoDB and Java ⚡
 </p>
 
 
