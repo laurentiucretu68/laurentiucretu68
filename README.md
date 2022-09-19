@@ -1,14 +1,9 @@
-<h1 align="center">Hey there, I'm Laurentiu </h1>
-
-<h3 align="center">Self-Learner and Linux Enthusiast</h3>
-
-
-## About me 📜:
+## About:
 
 <p>
 
-- Computers and Information Technology - 2nd year @Faculty of Mathematics and Computer Science, University of Bucharest. 🎓
-- I’m currently working with NodeJS, Fastify, MongoDB and Java ⚡
+- Computers and Information Technology - 3rd year @Faculty of Mathematics and Computer Science, University of Bucharest.
+- I’m currently working with JavaScript, TypeScript, NodeJS, ReactJS, MongoDB
 </p>
 
 
@@ -22,10 +17,6 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
 
@@ -36,14 +27,16 @@
 <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS"/>
+  
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
 
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
@@ -65,33 +58,39 @@
 
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting"/>
+  
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
 
-## My GitHub Stats
-<h3 align="left">Profile Views: 🧐</h3>
+## Stats
+<h3 align="left">Profile Views:</h3>
 
 ![Profile views](https://gpvc.arturio.dev/laurentiucretu68)
 
+<div style='display: flex'>
+  <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=laurentiucretu68&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurentiucretu68&theme=chartreuse-dark">
+  </div>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiucretu68&theme=chartreuse-dark)
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=laurentiucretu68&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laurentiucretu68&theme=chartreuse-dark">
+<h2> Contact </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiucretu68&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div style='display: flex'>
+  <img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-
-
-<h2> Contact me</h2>
-
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lawrencium103/)
-
-[<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Facebook-4267B3?style=for-the-badge&logo=Facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100003908947620)
-
-[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/lawrenciu103/)
-
+  <img align="top" alt="Kaggle" src="https://img.shields.io/badge/Facebook-4267B3?style=for-the-badge&logo=Facebook&logoColor=white" />
+  
+  <img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</div>
 
 
 
