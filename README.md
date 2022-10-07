@@ -75,12 +75,10 @@
 ![Profile views](https://gpvc.arturio.dev/laurentiucretu68)
 
 <div style='display: flex'>
-  <div>
       <img src="https://github-readme-stats.vercel.app/api?username=laurentiucretu68&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurentiucretu68&theme=chartreuse-dark">
-  </div>
+      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiucretu68&theme=chartreuse-dark)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiucretu68&theme=chartreuse-dark)
 </div>
 
 
