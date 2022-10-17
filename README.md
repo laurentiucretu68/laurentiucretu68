@@ -76,9 +76,7 @@
 
 <div style='display: flex'>
       <img src="https://github-readme-stats.vercel.app/api?username=laurentiucretu68&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiucretu68&theme=chartreuse-dark)
-  
+        
 </div>
 
 
