@@ -69,15 +69,10 @@
 <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="Rabbit"/>
 
 
-## Stats
-<h3 align="left">Profile Views:</h3>
-
+## Profile Views
+  
+ 
 ![Profile views](https://gpvc.arturio.dev/laurentiucretu68)
-
-<div style='display: flex'>
-      <img src="https://github-readme-stats.vercel.app/api?username=laurentiucretu68&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-        
-</div>
 
 
 <h2> Contact </h2>
