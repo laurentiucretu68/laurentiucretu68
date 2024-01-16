@@ -77,9 +77,10 @@
 
 ## Profile Views
   
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=laurentiucretu68&color=brightgreen" alt="watching_count" />
+ </p>
  
-![Profile views](https://gpvc.arturio.dev/laurentiucretu68)
-  
 <h2> Contact </h2>
 
 <div style='display: flex'>
