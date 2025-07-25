@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laurentiu</h1>
-<h3 align="center">Master's student in Security and Applied Logic at the University of Bucharest | Software Developer & Machine Learning Engineer at Bitdefender</h3>
 
 ## 🏆 About Me  
-- 🔭 **Cutting-edge cybersecurity and machine learning solutions at Bitdefender**
-- 🌱 I’m currently learning **Advanced formal verification techniques, category theory, and scalable ML models**
+- 🔭 Master's student in **Security and Applied Logic** at the _University of Bucharest_ | **Software Developer & AI Engineer** at _Bitdefender_
 
 ---
 
